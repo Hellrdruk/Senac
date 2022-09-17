@@ -1,0 +1,53 @@
+# exercicios_java
+
+no primeiro exercício temos a equação do primeiro grau, com os seguintes arquivos: equacao.html e equacao.js.
+o arquivo equacao.js é linkado através da tag script, assim possibilitando ultlizar o javascript.
+
+no arquivo html temos 2 inputs para passar os valores necessarios para a equação, aplicando uma id para cada um.
+logo após temos um botão com uma função de onclick para fazer o resultado aparecer direto no span criado dentro do h2
+
+no arquivo equacao.js comecei declarando 3 variáveis para os inputs e para o span criados no arquivo HTML, com nomes de 'n1', 'n2' e 'resultado'.
+
+logo após ultilizo o recurso function para determinar que quando meu botão for clicado meu código ordene que no meu span apareça o resultado de n1 - n2.
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+no segundo exercicio temos que ordenar 4 valores e nosso código vai nos retornar a média entre eles, aonde ultilizamos os arquivos media.html e media.js
+o arquivo media.js é linkado através da tag script, assim possibilitando ultlizar o javascript.
+
+no arquivo html temos 4 inputs do tipo number para que possamos digitar os valores que queremos. 
+logo após temos um botão com uma função de onclick para fazer o resultado aparecer direto no span criado dentro do h1.
+
+no arquivo media.js delcarei 4 variáveis para os inputs e para o span criados no HTML.
+
+depois ultilizei o recurso function para determinar que quando meu botão for clicado meu código ordene que no meu span apareça o resultado de (n1 + n2 + n3 + n4) / 4
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+no terceiro exercicio temos que  ordenar 5 valores sendo 1 deles um nome e nosso código vai nos retornar a média entre as notas e mostrar o nome que escrevemos, aonde ultilizamos os arquivos nome.html e nome.js
+o arquivo nome.js é linkado através da tag script, assim possibilitando ultlizar o javascript.
+
+no arquivo html temos 5 inputs, 4 do tipo number e 1 do tipo text para que possamos digitar os valores que queremos. 
+logo após temos um botão com uma função de onclick para fazer o resultado aparecer direto em 2 span criados dentro do h2.
+
+no arquivo media.js delcarei 8 variáveis para os inputs e para os spans criados no HTML.
+
+depois ultilizei o recurso function para determinar que quando meu botão for clicado meu código ordene que no meu span apareça o resultado de (n1 + n2 + n3 + n4 + n5) / 5 e que mostrasse o nome que determinamos.
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+no quarto exercício temos as operações, com os seguintes arquivos: operacoes.html e operacoes.js.
+o arquivo operacoes.js é linkado através da tag script, assim possibilitando ultlizar o javascript.
+
+no arquivo html temos 2 inputs para passar os valores necessarios para as operações, aplicando uma id para cada um e 4 tags de h2 com um span dentro de cada uma.
+logo após temos um botão com uma função de onclick para fazer o resultado aparecer direto no span criado dentro do h2
+
+no arquivo equacao.js comecei declarando 6 variáveis para os inputs e para os spans criados no arquivo HTML.
+
+logo após ultilizo o recurso function para determinar que quando meu botão for clicado meu código ordene que no meu span apareça o resultado de (n1 + n2), (n1 - n2), (n1 * n2), (n1 / n2).
